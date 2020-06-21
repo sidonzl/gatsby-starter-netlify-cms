@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Random
+title: The future
 image: /img/img_20200412_015017.jpg
 heading: Great year
 subheading: "Upcoming vision "
